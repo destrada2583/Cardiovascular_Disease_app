@@ -11,3 +11,4 @@ numpy
 streamlit
 scikit-learn
 altair
+matplotlib
