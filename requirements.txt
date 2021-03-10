@@ -12,3 +12,5 @@ streamlit
 scikit-learn
 altair
 matplotlib
+seaborn
+pickle
